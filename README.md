@@ -9,4 +9,7 @@ Contains tests and tutorials about java 17 new features.
 <br/>
 <br/>
 <u>Sources I used for java 17 training :</u>
-To be done
+- https://www.baeldung.com
+- https://examples.javacodegeeks.com
+- http://www.tutorialsforgeeks.org
+- https://www.techgeeknext.com

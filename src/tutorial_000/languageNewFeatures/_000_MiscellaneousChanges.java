@@ -29,4 +29,16 @@ public class _000_MiscellaneousChanges {
 	 * 
 	 * This feature will prevent JDK users from accessing internal APIs, except for critical ones like sun.misc.Unsafe.
 	 */
+	
+	/*
+	 * Vector API (Second Incubator)
+	 * 
+	 * The Vector API deals with the SIMD (Single Instruction, Multiple Data) type of operation, meaning various sets of instructions executed in 
+	 * parallel. It leverages specialized CPU hardware that supports vector instructions and allows the execution of such instructions as pipelines.
+	 * 
+	 * As a result, the new API will enable developers to implement more efficient code, leveraging the potential of the underlying hardware.
+	 * 
+	 * Everyday use cases for this operation are scientific algebra linear applications, image processing, character processing, and any heavy 
+	 * arithmetic application or any application that needs to apply an operation for multiple independent operands.
+	 */
 }
